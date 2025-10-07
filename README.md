@@ -1,4 +1,4 @@
-Demo for immporting Java Application that run on WildFly 8 in Mia-Platform
+Demo for immporting Java Application that run on WildFly 8 in Mia-Platform tets
 ====================
 
 This repository has been cloned and modified from the original https://github.com/wildfly/quickstart/tree/8.x
