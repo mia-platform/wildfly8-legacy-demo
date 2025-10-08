@@ -4,7 +4,7 @@ Demo for immporting Java Application that run on WildFly 8 in Mia-Platform
 This repository has been cloned and modified from the original https://github.com/wildfly/quickstart/tree/8.x
 We choose an older version of Java and Wildfly to demonstrate the import.
 
-For more information about all application see original repo.
+For more information about all application, see original repo.
 
 Here we adapted the repo to run on Ubuntu, Wildfly 8 using GitHub and Jenkins.
 
